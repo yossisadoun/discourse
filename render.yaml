@@ -1,6 +1,6 @@
 databases:
 - name: discourse-db
-  plan: basic
+  plan: hobby
 services:
 - type: web
   name: discourse-web
