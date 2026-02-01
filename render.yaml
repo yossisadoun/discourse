@@ -1,6 +1,6 @@
 databases:
 - name: discourse-db
-  plan: starter
+  plan: basic
 services:
 - type: web
   name: discourse-web
